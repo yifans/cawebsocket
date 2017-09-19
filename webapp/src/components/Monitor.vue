@@ -10,7 +10,6 @@ export default {
   name: 'monitor',
   data () {
     return {
-      msg: 'monitor',
       columns1: [
         {
           title: 'PV Name',
